@@ -3,4 +3,4 @@
 Здесь собраны некоторые реализованные проекты: 
 | Проект | Описание | Стек |
 | :-------------------- | :-------------------- |:---------------------|
-| [Прогноз заказов такси на следующий час] (https://github.com/tasvil/Portfolio/tree/main/Taxi_orders_forecast) | Разработана модель для предсказания количества заказов такси в аэропортах на следующий час| python, pandas, matplotlib, scikit-learn, catboost, prophet |
+| [Прогноз заказов такси на следующий час](https://github.com/tasvil/Portfolio/tree/main/Taxi_orders_forecast) | Разработана модель для предсказания количества заказов такси в аэропортах на следующий час| python, pandas, matplotlib, scikit-learn, catboost, prophet |
